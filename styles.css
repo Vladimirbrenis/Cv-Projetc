@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+}
+header {
+  background-color: aquamarine;
+  padding: 16px;
+}
+.title-box {
+  border: solid 5px rgb(224, 47, 47);
+  padding: 16px;
+}
+
+.Profile-Text {
+  padding: 16px;
+  color: azure;
+}
